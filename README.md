@@ -1,9 +1,9 @@
 # SignalR-Chat.Mobile
 A real-time chat application for Android
 
-Find Chat Service here: [Chat.Web](https://github.com/AKouki/SignalR-Chat)
+Find Chat Service here: [Chat.Web](https://github.com/AKouki/SignalR-Chat/tree/netframework)
 
-![SignalR-Chat.Mobile](https://raw.githubusercontent.com/AKouki/SignalR-Chat/master/Chat.Web/Content/screenshots/android.png)
+![SignalR-Chat.Mobile](https://raw.githubusercontent.com/AKouki/SignalR-Chat/netframework/Chat.Web/Content/screenshots/android.png)
 
 ## Getting Started
 In order to run this application you need first to run Chat.Web project which is the Chat Service.
